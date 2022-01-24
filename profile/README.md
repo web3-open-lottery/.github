@@ -10,6 +10,13 @@ I am looking to learn from people who know more than me. If you are or know some
 
 Contact blockchainmentor@protonmail.com to start a discussion
 
+## Interested in investing?
+
+We are building a DAO and a a reward token to allow building a liquidity pool to stake and trade the token. These tokens will be given as a reward for staking, creating and promoting lotteries, and buying tickets to lotteries. These tokens will also be used to allow interested investors to buy into the concept and earn a return off of our success.
+
+
+Contact blockchainmentor@protonmail.com to start a discussion
+
 ## Who is "BlockchainMentorLive"
 
 If you have looked at the commits of this project, or if you are evaluating or auditing it's code, you will no doubt see this name. Hi, I am Mark Tellez, a Mexico City based developer of over 25 years experience with this whole internet thing. I also teach JavaScript, React, and now Blockchain development, at https://devmentor.live and I have a Youtube channel for JavaScript/React (https://youtube.com/devmentorlive)[DevmentorLive] and I am starting a new channel on solidity and blockchain, which will be linked after it is up!
